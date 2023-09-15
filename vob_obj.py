@@ -1,7 +1,7 @@
 import blackwood
 
 
-name= "F:\\LFS\\gen_black\\dist\\Input\\mx5rim\\g3rim__.cem"
+name= "C:\Users\gilbe\OneDrive\Documentos\LIVE FOR SPEED\CARROS\SAVEIRO GTI\data\veh"
 
 
 
